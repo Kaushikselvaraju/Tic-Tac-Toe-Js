@@ -4,7 +4,7 @@
 <div align="center">
 <br>
 
-## Netlify Site Status :
+## Netlify Site Status : [![Netlify Status](https://api.netlify.com/api/v1/badges/1eeebc3e-62a4-4477-ae8d-5848d445e232/deploy-status)](https://app.netlify.com/sites/ttt-js/deploys)
 
 > ### _Tic-Tac-Toe Multiplayer game built using Vanilla Javascrpt_
 
